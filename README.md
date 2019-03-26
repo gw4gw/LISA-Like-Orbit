@@ -9,6 +9,13 @@ Initial time: JD2461853.0 (2028-Mar-22 12:00:00 UTC)
 Time span: 3700 days
 Time step: 1 day
 
+## Folders
+
+The folder of 20280322_LISA_xMkm means the orbital data of the LISA-like configuration with x million kilometer arm length.
+
+e.g. the 20280322_LISA_2p5Mkm is the LISA-like orbit with 2.5 million kilometer arm length, which is the configuration from the LISA proposal in 2017.
+
+
 ## Files
 SunP: the position of the Sun;
 
