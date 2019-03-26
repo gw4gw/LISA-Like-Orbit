@@ -6,7 +6,9 @@ J2000 equatorial (Earth mean equator and equinox) solar-system-barycentric coord
 
 ## Time Span and step
 Initial time: JD2461853.0 (2028-Mar-22 12:00:00 UTC)
+
 Time span: 2200 days
+
 Time step: 1 day
 
 ## Folders
