@@ -1,5 +1,5 @@
 # LISA-Like-Orbit
-This is a repository for the LISA-like orbits data shown in paper arXiv:1707.09127
+This is a repository for the LISA-like orbits data shown in paper [arXiv:1707.09127](https://arxiv.org/abs/1707.09127)
 
 ## Coordinate
 J2000 equatorial (Earth mean equator and equinox) solar-system-barycentric coordinate system
