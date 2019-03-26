@@ -11,7 +11,11 @@ Time step: 1 day
 
 ## Files
 SunP: the position of the Sun;
+
 SunV: the velocity of the Sun;
+
 Earth: the position of the Earth;
+
 SCPi: the position data of ith spacecraft's (i = 1, 2, 3);
-SCVi: the velocity data of ith spacecraft's;
+
+SCVi: the velocity data of ith spacecraft's (i = 1, 2, 3);
